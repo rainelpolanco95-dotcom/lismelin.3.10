@@ -1,0 +1,13 @@
+# Archivos y carpetas a ignorar
+node_modules/
+.DS_Store
+.env
+.env.local
+*.log
+dist/
+build/
+.vscode/settings.json
+*.swp
+*.swo
+*~
+.idea/
